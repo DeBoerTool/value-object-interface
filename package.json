@@ -1,0 +1,19 @@
+{
+  "name": "@deboertool/value-object-interface",
+  "version": "0.0.1",
+  "description": "An interface for value objects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeBoerTool/value-object-interface.git"
+  },
+  "author": "Daniel S. Deboer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeBoerTool/value-object-interface/issues"
+  },
+  "homepage": "https://github.com/DeBoerTool/value-object-interface#readme"
+}
