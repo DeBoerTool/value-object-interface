@@ -1,0 +1,1 @@
+A generic interface for value objects.
