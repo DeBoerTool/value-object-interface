@@ -1,6 +1,6 @@
 {
   "name": "@deboertool/value-object-interface",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "An interface for value objects",
   "main": "",
   "types": "",
