@@ -1,3 +1,5 @@
-export default interface ValueObject<T> {
+interface ValueObject<T> {
   value (): T
 }
+
+export default ValueObject
