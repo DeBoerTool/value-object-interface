@@ -1,6 +1,6 @@
 {
   "name": "@deboertool/value-object-interface",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "An interface for value objects",
   "types": "dist/main.d.ts",
   "files": [
