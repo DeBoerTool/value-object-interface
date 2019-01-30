@@ -2,8 +2,8 @@
   "name": "@deboertool/value-object-interface",
   "version": "0.3.2",
   "description": "An interface for value objects",
-  "main": "",
-  "types": "",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
   "scripts": {
     "postversion": "git push && git push --tags",
     "test": "echo \"Error: no test specified\" && exit 1"
